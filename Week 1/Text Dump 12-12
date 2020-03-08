@@ -1,0 +1,84 @@
+https://www.quora.com/What-is-the-best-way-to-take-notes-when-learning-a-computer-programming-language
+    "In my opinion, taking notes while learning a computer language is useless. I'll suggest you to try out all the examples, mini-projects which you come across while learning the language. And then keep those little codes in a single directory.
+
+Later, when you are done with learning, and finally working on something big, you'll forget something about the language, say a construct in the language:
+
+If you know the name of the construct, but don't know the syntax: You can quickly search your personal examples directory, and see a fully working example of that construct. You can even copy the skeleton code for that construct, from your simple example to your big project.
+If you don't know the name of the construct, but you know what is the functional purpose of the construct: Since you used that construct in one of your example programs, most probably you'll remember which one. You can quickly open that program, and you find the construct and a working example
+You know that there exists something in the language to allow that, but don't know what. You can quickly google on how to do so.
+Generally, unless you are learning some really new or secret language, many people have created websites, books, 1-page cheatsheets, quick reference guides etc. It is not worthwhile creating your own; just maintain a list of links/references/books which are good.
+If you think you need to write your own, just download one such quick reference guides and do annotations/modifications on top of it. But remember to keep it as concise and pithy as possible. Eventually you'll learn quite a few languages (and in the process, forget all of them). You don't want to go digging through tens of pages to find out the syntax of a simple subroutine declaration."
+
+
+
+https://www.reddit.com/r/learnprogramming/comments/2809h3/how_can_i_effectively_take_notes_while_learning/
+    "Don't take notes. Write programs that actually run. You need to look something up? If it's important to you, it probably exists in a living form in one of your old projects.
+
+    If it's obscured by the main thrust of the bulk of the program, then you should extract it to make it independently useful as its own program.
+
+    For concepts, rather than code, write them down in one big file. For things you don't understand, one big file works there too"
+    
+https://stackoverflow.com/questions/14972082/taking-notes-when-programming    
+    "Never read from just 1 book, read multiple books on the subject to get a better picture. for C read The C Programming Language, How To Program - C, C: A complete reference and then C a reference manual(by Harbison and Steele) touching on at least C99
+    
+Take notes, keep a book handy at all times - think before you ink though.
+
+Always sit by a computer + text editor + compiler (yes, do not use an IDE - learn with manual compilation)
+
+Learn good debugging techniques, gdb is fine to start off with(although has a significant learning curve)
+
+Be attentive to what is being said in the books and - also do not forget to experiment all the time. Programming is best learnt by doing it/practicing it."
+
+
+
+https://www.quora.com/Whats-the-best-way-to-take-notes-for-learning-code
+    "I assume learning code means learning how to code/programming. In this case I would recommend not taking notes at all. I did computer science in college and I cannot recall any instance where I need to write notes. I had lecture notes printed out for the sake of carrying something to the class instead of coming empty handed.
+
+Instead, you should practice more and do write comments - a lot of them. Comments are unlike learning notes, they’re like a diary and they’re on the piece of code that you write (instead of your notebook) to remind yourself of what you were thinking when you implemented a method this way but not another.
+
+Have fun!"
+    "I often don’t take notes, for me it can block the flow and slow me down as I like to read and immediately try things out.
+
+But if I do take notes, I don’t want to have to maintain them, so I put them in a cloud-based drive like Dropbox or Google Drive so that I’ll be able to access them from wherever and can also share them with others, in case the topic reappears in my life.
+
+If I’m making something then I’ll often draw and scribble my ideas on paper, but throw away stuff only. I don’t want to have to keep and maintain bits of paper in my life.
+
+But yeah, do what normally works best for you."
+
+
+
+https://www.quora.com/Should-beginning-programmers-hand-write-code-on-paper 
+    "I think the answer to this question really depends on your goals and learning style.
+
+    If you want to gain a deeper understanding of programming concepts and possibly pursue a career in tech, I’m going to have to disagree with a lot of the answers on here and say you should at least try to hand write your code. Maybe not for every piece of code you write, but there are benefits to practicing programming by writing it out before typing it into a text editor or IDE.
+
+    Gain a better understanding of key concepts: Although it’ll be slower, there’s a lot of evidence suggesting that writing-by-hand is superior to typing in gaining better conceptual understanding of a topic ( see The Pen Is Mightier Than the Keyboard - about note-taking, but I believe this applies). The repetition of transferring your code onto a text editor or IDE, could also be beneficial in remembering and reinforcing what you just learnt.
+
+    I thought it was fun to write out code on a piece of paper and then “execute” the program underneath my block of code. Doing this really made me think about the steps involved in entering, compiling and executing a program.
+
+    Develop good habits: You can’t just run your handwritten code halfway through to make sure it’s correct like you can on a computer. Although inconvenient, that means that the code you write will have to be more precise and intentional. It’s a good habit to develop when you’re just starting out.
+
+    Once your programs increase in length and/or complexity this may not be the best idea, since it becomes increasingly more important to test and debug as you build.
+
+    Excel in technical interviews/collaborative workspaces/college exams: In an interview, exam, or group project, you’ll most likely be writing out your code on a whiteboard or piece of paper at some point. Often programmers who never practice writing out code suffer because of this.
+
+    Empirical observation: My boyfriend and several friends all initially practiced programming by writing on a whiteboard or piece of paper, and all of them believe doing so has helped them get job offers from every company they have interviewed with (including Google and Amazon).
+
+    There’s a big difference in the proficiency of a programmer who is able to type up a program using trial-and-error methods and one who writes a program and can actually explain their process to others. The latter is the one who generally excels when programming in a collaborative environment. At least initially, practicing to code-by-hand doesn’t allow you to easily fall into the trial-and-error programming trap.
+
+    UPDATE NOTE: I just wanted to say again that I’m not saying to not practice programming on your computer (that would be ridiculous). I’m just saying it might be a good idea to at least try to practice writing some of your code on a whiteboard or piece of paper before transferring it to a text editor. It could help; all depends on your learning style."
+    
+    
+https://www.reddit.com/r/IPython/comments/3kgyn4/jupyter_vs_spyder/
+    "Hey I'm a Physics student and I've ben using python for about 3 years now. I made the switch to Anaconda a few months ago and have been experimenting with both IPython and Spyder since then and I find they compliment each other quite well.
+
+Spyder seems to be a really great tool if you have projects with large codebases to work on. The ability to browse throw your projects working directories quickly and hold multiple files open in tabs is invaluable. It can handle large codebases far far easier than IPython notebooks.
+
+But when it comes to smaller projects or projects that you want to share IPython is unbeatable. The fact you have access to Markdown and Latex means that you can write very detailed explanations or walkthroughs of your code and project and then include code that can be edited or even be interactive. NB Viewer makes it super easy to share a static version of work with colleagues and you can share .ipynb files very easily too.
+
+I've also found the reveal.js add-on to Ipython just amazing for making very beautiful interactive slideshow presentations.
+
+TL;DR IPython is the go to environment for writing code that needs to be shared or presented with colleagues, but if you have a large codebase and a Matlab style interface would be an advantage, Spyder is the tool for the job."
+
+
+
